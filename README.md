@@ -6,25 +6,25 @@ In this project, I walk through the complete process of building a customer segm
 
 By the end of this project, you’ll understand:
 
--How RFM analysis works
+1.How RFM analysis works
 
--How to calculate RFM metrics from sales data
+2.How to calculate RFM metrics from sales data
 
--How to segment customers into meaningful business groups
+3.How to segment customers into meaningful business groups
 
--How to design a dashboard that supports data-driven decision making
+4.How to design a dashboard that supports data-driven decision making
 
 ## 📌 What is RFM Analysis?
 
 RFM stands for:
 
--Recency – How recently a customer made a purchase
+*Recency – How recently a customer made a purchase
 (More recent = more engaged)
 
--Frequency – How often a customer makes purchases
+*Frequency – How often a customer makes purchases
 (More purchases = more loyal)
 
--Monetary – How much money a customer spends
+*Monetary – How much money a customer spends
 (Higher spend = higher value)
 
 ## 🔄 Data Transformation
@@ -60,12 +60,12 @@ Business Analytics & Storytelling
 
 The final result is an interactive Power BI dashboard that allows users to:
 
--Identify high-value customers
++Identify high-value customers
 
--Detect customers at risk of churn
++Detect customers at risk of churn
 
--Analyze customer behavior using RFM metrics
++Analyze customer behavior using RFM metrics
 
--Support targeted marketing and retention strategies
++Support targeted marketing and retention strategies
 
 <img width="1435" height="803" alt="image" src="https://github.com/user-attachments/assets/1efd538e-f141-40f8-ad02-7d22e8584480" />
