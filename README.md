@@ -49,11 +49,11 @@ This transformation is what converts raw sales data into clear, actionable custo
 
 ## 🛠️ Tools & Technologies Used
 
-Power BI
-DAX
-Data Modeling
-RFM Analysis
-Customer Segmentation
+Power BI, 
+DAX, 
+Data Modeling, 
+RFM Analysis, 
+Customer Segmentation, 
 Business Analytics & Storytelling
 
 ## 📊 Final Output
